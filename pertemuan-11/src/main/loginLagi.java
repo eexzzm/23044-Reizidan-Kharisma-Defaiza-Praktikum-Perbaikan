@@ -20,7 +20,6 @@ import java.util.Scanner;
  * @author reizi
  */
 public class loginLagi {
-
     /**
      * @param args the command line arguments
      */
